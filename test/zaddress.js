@@ -44,6 +44,6 @@ it('mkZAddress() should be deterministic', function () {
     '22d666c34ababacf6a9a4a752cc7870b505b64e85638aa45d23ac32992397960'
   )
   expect(Zaddress).to.equal(
-    'zcTPZR8Hqz2ZcStwMJju9L4VBHW7YWmNyL6tDAT4eVmzmxLaG7h4QmqUXfmrjz8twizH4piDGiRYJRZ1bhHhT5gFL6TKsQZ'
+    'zkYH8q26LZSo6N2cBsUtiftsvz9zxk7uc5qH1Z8tjmUK4hgxWa9coBYZN4zfgzWr2Q4DrheXtDuf5dmQartPUq917fgTSJc'
   )
 })
